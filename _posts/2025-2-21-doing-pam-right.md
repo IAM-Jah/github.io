@@ -3,7 +3,7 @@ title: "Doing PAM Right: How to Build a Stronger Privileged Access Strategy"
 author: Elijah (Eli) Hopkins
 date: 2025-02-01
 layout: post
-categories: Article, CyberArk, Privileged Access Management, People, Processes, Technology
+categories: Article CyberArk Privileged Access Management People Processes Technology
 ---
 
 Effective Privileged Access Management (PAM) defines the line between secure operations and breach risk. Many organizations face recurring pitfalls that create inefficiencies, technical debt, and vulnerabilities.
