@@ -1,8 +1,9 @@
 ---
-layout: post
 title: "Welcome to My Blog"
+author: Elijah (Eli) Hopkins
 date: 2025-02-01
-categories: introduction
+layout: post
+categories: Administrative
 ---
 
 Hello, World! Here, I’ll be sharing insights, stories, and strategies around identity security, privacy, and access management and other related topics.    
