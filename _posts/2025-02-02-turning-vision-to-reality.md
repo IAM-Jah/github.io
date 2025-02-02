@@ -17,7 +17,7 @@ Artificial Intelligence has become a transformative force in productivity. My jo
 
 Creative indecision is typically what holds me back. Combine that with limited time to devote to relearning HTML and no desire to pay $20 a month for a service, the solution became clear: leverage AI as a productivity accelerator to get it done open-source. ChatGPT played a central role in demystifying the process every step of the way, guiding the process of forking a Jekyll theme, editing site templates and YAML configuration files, and offering tailored advice on integrating features seamlessly into GitHub Pages.
 
-## Establishing the Foundation: GitHub Pages and Custom Domains
+## Establishing the Foundation
 
 Setting up the blog involved hosting on GitHub Pages at o4 Mini's suggestion; I asked for free alternatives to design services like Squarespace, and I was already using GitHub for other projects. The public repository, available at IAM-Jah/github.io, was created, loaded up in VS Code, and committed in just a few minutes. At this point, it had an ugly, long URL, no HTTPS support, and plain text pages. I needed to do some work.
 
@@ -47,7 +47,7 @@ Beyond the initial launch, the ongoing integration of AI in content management i
 
 The decision to harness AI’s capabilities proved crucial for efficiently managing both technical and creative tasks. Publishing consistent, high-quality content across multiple platforms has since become more achievable, allowing a streamlined focus on delivering insights and engaging with the technology community.
 
-## Conclusion: Unlocking Creative Potential with AI
+## Unlocking Creative Potential with AI
 
 What once seemed like an insurmountable project became a downright quick and easy process thanks to AI’s versatile capabilities. In less than a day, a fully operational blog materialized, demonstrating AI's power to unlock creative and technical potential. This experience underscores a critical insight for professionals: AI is not merely a tool for automation but a catalyst for realizing ideas that might otherwise remain dormant. Whether building a website, crafting content, or optimizing workflows, AI empowers individuals to achieve more with less effort, making it an indispensable ally in today’s productivity-driven world.
 
