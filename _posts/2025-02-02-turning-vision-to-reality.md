@@ -7,7 +7,7 @@ categories: Article AI Productivity WebDev Technology
 featured_image: "/images/blog/vision-to-reality.png"
 ---
 
-![Turning Vision to Reality with AI](/images/blog/vision-to-reality.png)(ai-dns-config.png)
+![Turning Vision to Reality with AI](/images/blog/vision-to-reality.png)
 
 Since last year, the idea of creating a personal blog to share my thoughts and insights lingered on the to-do list. Time constraints, competing priorities, and the daunting nature of web development stalled progress. However, with the assistance of AI tools, this project transformed from a vague aspiration into a fully functional, aesthetically pleasing website in less than half a day. This article explores how AI facilitated the rapid creation of a professional-grade blog, highlighting each step in the journey from concept to publication.
 
