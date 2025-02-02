@@ -6,6 +6,8 @@ layout: post
 categories: Article CyberArk Privileged Access Management People Processes Technology
 ---
 
+![PAM Blueprint laid out on a table](/images/blog/doing-pam-right.png)
+
 Effective Privileged Access Management (PAM) defines the line between secure operations and breach risk. Many organizations face recurring pitfalls that create inefficiencies, technical debt, and vulnerabilities.
 
 Based on extensive field experience with CyberArk solutions, this guide outlines strategies to avoid errors and build a scalable PAM framework.

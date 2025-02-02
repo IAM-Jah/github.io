@@ -8,6 +8,8 @@ layout: page
 
 ### [Bruno Collections for CyberArk Identity Security REST API](https://github.com/IAM-Jah/CyberArk-REST-API-Bruno/tree/main)
 
+![CyberArk Bruno REST API Collections](/images/projects/bruno-collections.jpg)
+
 #### Summary
 This project provides Bruno Collection and Environment files for **CyberArk Identity Security** REST API testing and automation. It includes 945 REST API requests designed to support Self-Hosted PAM, Privilege Cloud, and other shared services.
 
@@ -23,6 +25,8 @@ CyberArk administrators and security professionals working with identity securit
 ---
 
 ### [CyberArk Program Acceptance Toolkit](https://github.com/IAM-Jah/CyberArk-Program-Acceptance-Toolkit)
+
+![CyberArk Program Acceptance Toolkit](/images/projects/pam-adoption.jpg)
 
 #### Summary
 A resource repository designed to help CyberArk administrators and program managers promote user adoption and engagement for PAM programs. The toolkit includes automation scripts, compliance guidelines, templates, and training materials.

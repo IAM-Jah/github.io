@@ -6,4 +6,6 @@ layout: post
 categories: Administrative
 ---
 
+![Hello, World](/images/blog/hello-world.png)
+
 Hello, World! Here, I’ll be sharing insights, stories, and strategies around identity security, privacy, and access management and other related topics.    
