@@ -4,6 +4,7 @@ author: Elijah (Eli) Hopkins
 date: 2025-02-01
 layout: post
 categories: Article CyberArk Privileged Access Management People Processes Technology
+featured_image: "/images/blog/doing-pam-right.png"
 ---
 
 ![PAM Blueprint laid out on a table](/images/blog/doing-pam-right.png)
