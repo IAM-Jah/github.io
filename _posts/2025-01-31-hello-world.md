@@ -1,5 +1,6 @@
 ---
 title: "Welcome to My Blog"
+description: "Hello, World! My First Blog Post"
 author: Elijah (Eli) Hopkins
 date: 2025-01-31
 layout: post

@@ -1,5 +1,6 @@
 ---
 title: "Doing PAM Right: How to Build a Stronger Privileged Access Strategy"
+description: "7 Key Mistakes to Avoid to Build a Stronger Privileged Access Strategy"
 author: Elijah (Eli) Hopkins
 date: 2025-02-01
 layout: post

@@ -9,10 +9,13 @@ name: Eli Hopkins - Identity Security Blog
 author: Eli Hopkins
 
 # Short bio or description (displayed in the header)
-description: Exploring the future of identity security, privacy, and access management.
+description: Insights on identity security, technology, and more.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/profile_PCPT.png
+
+# Default image for use in OG and Twitter card metadata
+default_image: /images/profile_PCPT.png
 
 #
 # Flags below are optional

@@ -1,5 +1,6 @@
 ---
 title: "Turning Vision to Reality with AI"
+description: "Using AI to Accelerate Productivity and Unlock Creative Potential"
 author: Elijah (Eli) Hopkins
 date: 2025-02-02
 layout: post
