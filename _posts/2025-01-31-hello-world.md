@@ -1,7 +1,7 @@
 ---
 title: "Welcome to My Blog"
 author: Elijah (Eli) Hopkins
-date: 2025-02-01
+date: 2025-01-31
 layout: post
 categories: Administrative
 featured_image: "/images/blog/hello-world.png"
