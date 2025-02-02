@@ -694,6 +694,13 @@ Modules - reusable parts of our design
   line-height: 0;
 }
 
+.post-content img {
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+  height: auto;
+}
+
 .post-tags {
   text-align: center;
   line-height: 35px;
