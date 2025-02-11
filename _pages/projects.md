@@ -6,6 +6,27 @@ layout: page
 
 ## Projects
 
+### [CyberArk Business Intelligence with Amazon QuickSight](https://github.com/IAM-Jah/CyberArk-BI-Dashboard)
+
+![CyberArk BI with Amazon QuickSight](/images/projects/cyberark-bi-quicksight.png)
+
+#### Summary
+This community-developed project leverages AWS services and advanced BI visualization to automate monitoring and analysis of CyberArk Privileged Access Management (PAM) metrics.
+
+Whether you're managing on-premises or cloud-based PAM environments, this project demonstrates the use of modern cloud technologies to address key business needs around compliance, access control, and security analytics.
+
+#### Target Audience
+CyberArk Administrator, Security Engineer, Data Analyst
+
+#### Key Highlights
+- **Data Ingestion**: Extract CyberArk PAM data (Safes, Accounts, Platforms) via APIs or logs.
+- **Data Processing**: Transform data using AWS Lambda functions.
+- **Data Visualization**: Generate interactive dashboards in AWS QuickSight.
+- **Secure Architecture**: Leverages AWS Secrets Manager, IAM roles, and VPC for security.
+- **Automation**: Scheduled workflows and alerts for continuous monitoring.
+
+---
+
 ### [Bruno Collections for CyberArk Identity Security REST API](https://github.com/IAM-Jah/CyberArk-REST-API-Bruno/tree/main)
 
 ![CyberArk Bruno REST API Collections](/images/projects/bruno-collections.png)
@@ -14,7 +35,7 @@ layout: page
 This project provides Bruno Collection and Environment files for **CyberArk Identity Security** REST API testing and automation. It includes 945 REST API requests designed to support Self-Hosted PAM, Privilege Cloud, and other shared services.
 
 #### Target Audience
-CyberArk administrators and security professionals working with identity security and privileged access management.
+CyberArk Administrator, Security Engineer, Developer
 
 #### Key Highlights
 - Pre-configured authentication and environment variables.
@@ -32,7 +53,7 @@ CyberArk administrators and security professionals working with identity securit
 A resource repository designed to help CyberArk administrators and program managers promote user adoption and engagement for PAM programs. The toolkit includes automation scripts, compliance guidelines, templates, and training materials.
 
 #### Target Audience
-Program managers, administrators, and security teams implementing CyberArk solutions.
+CyberArk Administrator, Program Manager, Project Manager, Knowledge Management Officer
 
 #### Key Highlights
 - Structured resources including diagrams, email templates, and automation scripts.
